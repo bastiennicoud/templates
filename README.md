@@ -1,6 +1,6 @@
 # TEMPLATES
 
-**This repo contains diffrents base templates for starting web projects.**
+**This repo contains diffrents foundation templates for starting web projects.**
 
 ## The templates
 
