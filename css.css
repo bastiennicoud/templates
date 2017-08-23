@@ -1,0 +1,10 @@
+/* CSS base stylesheet */
+@charset "utf-8";
+
+/* Import fonts */
+@font-face {
+  font-family: "Font name";
+  src: url(../fonts/fontlocation);
+}
+
+/* Redy to stylize our website */
