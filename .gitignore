@@ -1,2 +1,7 @@
+# .gitignore base config
 
-\.DS_Store
+.DS_Store
+vendor/*
+node_modules/*
+npm-debug.log
+.env

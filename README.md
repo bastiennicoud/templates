@@ -4,6 +4,7 @@
 
 ## The templates
 
+- **.gitignore** Base gitignore template
 - **html.html** HTML base
 - **css.css** CSS base
 - **js.js** JavaScript base
