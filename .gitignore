@@ -1,7 +1,40 @@
-# .gitignore base config
+# A generic .gitignore config for the web !
 
+# Generic
 .DS_Store
-vendor/*
-node_modules/*
-npm-debug.log
+.DS_Store?
+/.idea
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+Thumbs.db
+
+# Env variables
 .env
+.env.php
+.env.*.php
+
+# Laravel
+/vendor
+/public/hot
+/public/storage
+/storage/*.key
+
+# Node
+npm_debug.log
+yarn-error.log
+node_modules/
+jspm_packages/
+.npm
+
+# Vue specific
+/dist/
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+
+# Vagrant
+/.vagrant
